@@ -1,0 +1,69 @@
+jawaban soal no. 1
+<h1 style="background-color:yellow;">Yellow</h1>
+
+jawaban no. 2
+
+<tr>
+<th>Nama</th>     
+<th>Usia</th>      
+</tr>
+
+
+jawaban n0. 3 
+ <th> Namae </th> 
+<th> Age </th>
+
+no. 4 
+
+<p colortext=:"blue">
+
+JAWABAN n0. 5
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+
+<form action="/action_page.php">
+  <label for="fname">DAFTAR:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+</body>
+</html>
+
+JAWABAN N0. 06
+ <P text = Justify :
+
+jawaban no. 07
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Radio Buttons</h2>
+
+<p>Choose your favorite Web language:</p>
+
+<form>
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label>
+</form> 
+
+</body>
+</html>
+
+JAWABAN N0. 08 
+
+<h1> my home page </h1>
+
+
+JAWABAN NO. 09 
+
